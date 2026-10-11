@@ -1,2 +1,1 @@
-# project2b-ai-suite
-AI tools and digital products foundation for generating scalable income - Project 2B
+# Project 2B AI Tools Suite\n\nFoundation for AI micro-SaaS and digital products to achieve significant net income.\n\n## Current Tools\n- Prompt Optimizer (MVP)\n\n## Deployment\nDeploy to Vercel for free hosting.\n\n## Monetization Plan\n- Free tier with limits\n- Premium subscriptions\n- Digital product sales (prompt packs, guides)\n\nStatus: Initial setup complete.
